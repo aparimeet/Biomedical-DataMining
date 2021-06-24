@@ -1,9 +1,0 @@
-"HERE I WILL BE LISTING SOME POINTS TO LOOK FOR IN THIS WEB APP IN FUTURE"
-
-1. This web app contains two parts one is NER and other is Knowledge graph visualised from neo4j graph database.
-
-2. I have made the NER as dynamic which means that it will show u sentences when u search or click any button according to the query
-   but the Knowledge graph part is still static which means it contains a single cypher query for every search button or search input field
-   so it shows the same graph.
-
-3. So we can look out for making the knowledge graph part dynamic too.
